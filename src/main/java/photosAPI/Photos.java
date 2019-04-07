@@ -33,9 +33,9 @@ public class Photos {
 
 	private PhotosLibraryClient photosLibraryClient;
 
-	private static final String CLIENT_ID = "119510003900-eqqs7o8ae5mudvm6d394gmu4v6l7o7qo.apps.googleusercontent.com";
+	private static final String CLIENT_ID = "YOUR_CLIENT_ID";
 
-	private static final String CLIENT_SECRET = "***REMOVED***";
+	private static final String CLIENT_SECRET = "YOUR_CLIENT_SECRET";
 
 	private static final String REQUEST_SCOPE = "https://www.googleapis.com/auth/photoslibrary";
 
