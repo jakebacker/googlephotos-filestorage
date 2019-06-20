@@ -15,3 +15,6 @@ Run the jar file using some sort of terminal with:
 ``` java -jar googlephotos-filestorage-all-VERSION.jar```
 
 Follow the prompts in the terminal.
+
+
+[Privacy Policy](https://jakebacker.com/googlephotos-filestorage/privacy.html)
